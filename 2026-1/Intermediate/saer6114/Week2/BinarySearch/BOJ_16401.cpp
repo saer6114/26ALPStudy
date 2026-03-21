@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-
+    
 	//입력
     int m, n, input;
     cin >> m >> n;
