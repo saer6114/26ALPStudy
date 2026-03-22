@@ -1,5 +1,4 @@
 .vscode/
-*.exe
 
 ### C++ ###
 # Prerequisites
@@ -31,6 +30,7 @@
 *.lib
 
 # Executables
+**/*.exe
 *.exe
 *.out
 *.app
