@@ -25,7 +25,6 @@ int main(void)
     }
  
     int ans = dp[0];
-    
     for (int i = 1; i < N; i++)
         if (ans < dp[i]) 
             ans = dp[i];
